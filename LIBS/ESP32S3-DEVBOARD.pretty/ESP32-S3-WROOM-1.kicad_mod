@@ -762,7 +762,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3D/ESP32-S3-WROOM-1.stpZ"
+	(model "${KIPRJMOD}/LIBS/3D/ESP32-S3-WROOM-1.stpZ"
 		(offset
 			(xyz 0 0 0)
 		)
