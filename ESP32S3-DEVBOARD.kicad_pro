@@ -505,14 +505,26 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.1016,
+        "line_style": 0,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(194, 0, 0)",
+        "track_width": 0.254,
+        "via_diameter": 0.9,
+        "via_drill": 0.508,
+        "wire_width": 12
+      },
+      {
         "clearance": 0.1524,
         "diff_pair_gap": 0.1524,
         "diff_pair_width": 0.1778,
         "line_style": 0,
         "name": "USB",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgb(255, 0, 0)",
+        "priority": 1,
+        "schematic_color": "rgb(0, 0, 255)",
         "track_width": 0.1778,
         "via_diameter": 0.4,
         "via_drill": 0.3,
@@ -528,6 +540,14 @@
       {
         "netclass": "USB",
         "pattern": "/USB*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "+*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GND"
       }
     ]
   },
