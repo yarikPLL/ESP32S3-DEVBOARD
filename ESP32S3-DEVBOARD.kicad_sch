@@ -11968,7 +11968,7 @@
 	)
 	(text "Connecting TTL to ESP"
 		(exclude_from_sim no)
-		(at 191.77 151.13 0)
+		(at 191.77 129.54 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -11980,7 +11980,7 @@
 	)
 	(text "Connecting IMU to ESP (INTR_{2})"
 		(exclude_from_sim no)
-		(at 191.77 145.796 0)
+		(at 191.77 124.206 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -11992,7 +11992,7 @@
 	)
 	(text "Changing I^{2}C IMU Address"
 		(exclude_from_sim no)
-		(at 191.77 140.462 0)
+		(at 191.77 118.872 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -12004,7 +12004,7 @@
 	)
 	(text "Connecting IMU to ESP (I^{2}C_SCL)\n"
 		(exclude_from_sim no)
-		(at 191.77 138.176 0)
+		(at 191.77 116.586 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -12028,7 +12028,7 @@
 	)
 	(text "Connecting TTL to ESP"
 		(exclude_from_sim no)
-		(at 191.77 148.59 0)
+		(at 191.77 127 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -12064,7 +12064,7 @@
 	)
 	(text "Connecting IMU to ESP (INTR_{1})"
 		(exclude_from_sim no)
-		(at 191.77 143.256 0)
+		(at 191.77 121.666 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -12088,7 +12088,7 @@
 	)
 	(text "Setting ESP to reset mode"
 		(exclude_from_sim no)
-		(at 191.77 133.096 0)
+		(at 191.77 111.506 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -12137,7 +12137,7 @@
 	)
 	(text "Connecting IMU to ESP (I^{2}C_SDA)\n"
 		(exclude_from_sim no)
-		(at 191.77 135.636 0)
+		(at 191.77 114.046 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -13531,7 +13531,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 138.43) (xy 165.1 138.43)
+			(xy 160.02 140.97) (xy 165.1 140.97)
 		)
 		(stroke
 			(width 0)
@@ -14011,7 +14011,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 140.97) (xy 165.1 140.97)
+			(xy 160.02 135.89) (xy 165.1 135.89)
 		)
 		(stroke
 			(width 0)
@@ -14551,7 +14551,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 135.89) (xy 180.34 135.89)
+			(xy 185.42 138.43) (xy 180.34 138.43)
 		)
 		(stroke
 			(width 0)
@@ -14951,7 +14951,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 140.97) (xy 180.34 140.97)
+			(xy 185.42 135.89) (xy 180.34 135.89)
 		)
 		(stroke
 			(width 0)
@@ -15031,7 +15031,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 135.89) (xy 165.1 135.89)
+			(xy 160.02 138.43) (xy 165.1 138.43)
 		)
 		(stroke
 			(width 0)
@@ -15481,7 +15481,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 138.43) (xy 180.34 138.43)
+			(xy 185.42 140.97) (xy 180.34 140.97)
 		)
 		(stroke
 			(width 0)
@@ -15540,7 +15540,7 @@
 		(uuid "02b528c2-5aec-4224-aced-38b59e9ce69c")
 	)
 	(label "I^{2}C_SDA"
-		(at 160.02 135.89 180)
+		(at 160.02 138.43 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -15800,7 +15800,7 @@
 		(uuid "35266119-f31c-47f7-9920-18388e7e9c92")
 	)
 	(label "I^{2}C_SCL"
-		(at 160.02 138.43 180)
+		(at 160.02 140.97 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -16239,7 +16239,7 @@
 		)
 		(uuid "8ae09e07-7040-4864-9d8a-dcba05f3ab16")
 	)
-	(label "GPIO6"
+	(label "GPIO21"
 		(at 185.42 143.51 0)
 		(effects
 			(font
@@ -16389,8 +16389,8 @@
 		)
 		(uuid "a45fdf17-7797-4162-91d6-dec2447a4aa5")
 	)
-	(label "GPIO5"
-		(at 185.42 135.89 0)
+	(label "GPIO48"
+		(at 185.42 138.43 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -16539,8 +16539,8 @@
 		)
 		(uuid "b8a42081-ab95-4e70-8518-976795e0b5a3")
 	)
-	(label "GPIO7"
-		(at 185.42 140.97 0)
+	(label "GPIO35"
+		(at 185.42 135.89 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -16549,8 +16549,8 @@
 		)
 		(uuid "b9a621bb-0733-47c1-b1f7-d2cdacd6eb1e")
 	)
-	(label "GPIO4"
-		(at 185.42 138.43 0)
+	(label "GPIO47"
+		(at 185.42 140.97 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -16560,7 +16560,7 @@
 		(uuid "bef03906-c047-4abc-931f-2144eb4af744")
 	)
 	(label "INT1"
-		(at 160.02 140.97 180)
+		(at 160.02 135.89 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -18458,9 +18458,9 @@
 		(at 53.34 140.97 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "3a06cf9f-9e1e-4547-8b97-254183ad055b")
 		(property "Reference" "C15"
 			(at 51.562 139.954 90)
@@ -20305,7 +20305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32S3-DEVBOARD:PinHeader_1x22_P2.54mm_Vertical"
+		(property "Footprint" "ESP32S3-DEVBOARD:PinHeader_1x22_P2.54mm_Vertical_FLIPPED"
 			(at 273.05 52.07 0)
 			(effects
 				(font
@@ -23145,7 +23145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32S3-DEVBOARD:PinHeader_1x22_P2.54mm_Vertical"
+		(property "Footprint" "ESP32S3-DEVBOARD:PinHeader_1x22_P2.54mm_Vertical_FLIPPED"
 			(at 238.76 52.07 0)
 			(effects
 				(font
@@ -25446,9 +25446,9 @@
 		(at 53.34 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "fed10a7b-505e-417f-a104-731c4872a5ca")
 		(property "Reference" "C14"
 			(at 51.308 134.62 90)

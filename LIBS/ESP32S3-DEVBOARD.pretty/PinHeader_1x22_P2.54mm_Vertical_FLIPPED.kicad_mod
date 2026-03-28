@@ -1,4 +1,4 @@
-(footprint "PinHeader_1x22_P2.54mm_Vertical"
+(footprint "PinHeader_1x22_P2.54mm_Vertical_FLIPPED"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -8,6 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -2.38 0)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "28de71ee-2955-4421-84f1-13ee2ed167a7")
 		(effects
 			(font
@@ -16,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "PinHeader_1x22_P2.54mm_Vertical"
+	(property "Value" "PinHeader_1x22_P2.54mm_Vertical_FLIPPED"
 		(at 0 55.72 0)
 		(layer "F.Fab")
 		(uuid "c3e09f14-832b-4d2e-9360-ce5069538bca")
@@ -52,66 +53,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_line
-		(start -1.38 -1.38)
-		(end 0 -1.38)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "2e803efb-ceb6-4053-9c44-7d50f7937da6")
-	)
-	(fp_line
-		(start -1.38 0)
-		(end -1.38 -1.38)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "dacd7291-80d0-4921-a66d-ed21996a2269")
-	)
-	(fp_line
-		(start -1.38 1.27)
-		(end -1.38 54.72)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "e9527860-7f21-4ffb-b037-b0ee1efb4054")
-	)
-	(fp_line
-		(start -1.38 1.27)
-		(end 1.38 1.27)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "a412093a-e507-43b2-94c2-ae337b0ba3a0")
-	)
-	(fp_line
-		(start -1.38 54.72)
-		(end 1.38 54.72)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "74c70fa8-5f5c-476e-8392-a1cc923eacc0")
-	)
-	(fp_line
-		(start 1.38 1.27)
-		(end 1.38 54.72)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "6d8b6862-b780-4b3a-b528-8493b4047d7e")
-	)
 	(fp_line
 		(start -1.77 -1.78)
 		(end -1.77 55.12)
@@ -392,13 +333,13 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/LIBS/3D/PinHeader_1x22_P2.54mm_Vertical.stpZ"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -1.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -180 -0)
 		)
 	)
 )
