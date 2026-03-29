@@ -9554,7 +9554,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part # " "C6386921"
+			(property "LCSC " "C6386921"
 				(at 0 0 0)
 				(effects
 					(font
@@ -17067,7 +17067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "RC0402FR-070RL"
+		(property "LCSC" "C106231"
 			(at 124.46 129.54 0)
 			(effects
 				(font
@@ -17076,8 +17076,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106231"
-			(at 124.46 129.54 0)
+		(property "MFR Part #" "RC0402FR-070RL"
+			(at 124.46 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17351,7 +17351,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "16-213/GHC-YR1S1/3T"
+		(property "LCSC" "C74338"
 			(at 144.78 66.04 0)
 			(effects
 				(font
@@ -17360,8 +17360,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C74338"
-			(at 144.78 66.04 0)
+		(property "MFR Part #" "16-213/GHC-YR1S1/3T"
+			(at 144.78 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17439,7 +17439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TS-1088-AR02016"
+		(property "LCSC" "C720477"
 			(at 132.08 186.69 0)
 			(effects
 				(font
@@ -17448,7 +17448,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C720477"
+		(property "MFR Part #" "TS-1088-AR02016"
 			(at 132.08 186.69 0)
 			(effects
 				(font
@@ -18126,7 +18126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "USBLC6-2P6"
+		(property "LCSC" "C2827693"
 			(at 60.96 100.33 0)
 			(effects
 				(font
@@ -18135,7 +18135,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2827693"
+		(property "MFR Part #" "USBLC6-2P6"
 			(at 60.96 100.33 0)
 			(effects
 				(font
@@ -18804,7 +18804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 233.68 125.73 0)
 			(effects
 				(font
@@ -18813,7 +18813,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
+		(property "MFR Part #" "RC0402FR-0710KL"
 			(at 233.68 125.73 0)
 			(effects
 				(font
@@ -18957,7 +18957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 168.91 33.02 0)
 			(effects
 				(font
@@ -18966,7 +18966,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
+		(property "MFR Part #" "RC0402FR-0710KL"
 			(at 168.91 33.02 0)
 			(effects
 				(font
@@ -19042,7 +19042,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "CL10A106MA8NRNC"
+		(property "LCSC" "C96446"
 			(at 73.66 39.37 0)
 			(effects
 				(font
@@ -19051,8 +19051,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
-			(at 73.66 39.37 0)
+		(property "MFR Part #" "CL10A106MA8NRNC"
+			(at 73.66 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19258,7 +19258,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF5101TCE"
+		(property "LCSC" "C25905"
 			(at 58.42 148.59 0)
 			(effects
 				(font
@@ -19267,8 +19267,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25905"
-			(at 58.42 148.59 0)
+		(property "MFR Part #" "0402WGF5101TCE"
+			(at 58.42 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19408,7 +19408,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF5101TCE"
+		(property "LCSC" "C25905"
 			(at 58.42 146.05 0)
 			(effects
 				(font
@@ -19417,8 +19417,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25905"
-			(at 58.42 146.05 0)
+		(property "MFR Part #" "0402WGF5101TCE"
+			(at 58.42 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19560,7 +19560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "BMI270"
+		(property "LCSC" "C2836813"
 			(at 255.27 137.16 0)
 			(effects
 				(font
@@ -19569,7 +19569,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2836813"
+		(property "MFR Part #" "BMI270"
 			(at 255.27 137.16 0)
 			(effects
 				(font
@@ -20158,7 +20158,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF5101TCE"
+		(property "LCSC" "C25905"
 			(at 58.42 83.82 0)
 			(effects
 				(font
@@ -20167,8 +20167,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25905"
-			(at 58.42 83.82 0)
+		(property "MFR Part #" "0402WGF5101TCE"
+			(at 58.42 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20245,7 +20245,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "16-213/GHC-YR1S1/3T"
+		(property "LCSC" "C74338"
 			(at 116.84 187.96 0)
 			(effects
 				(font
@@ -20254,8 +20254,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C74338"
-			(at 116.84 187.96 0)
+		(property "MFR Part #" "16-213/GHC-YR1S1/3T"
+			(at 116.84 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20283,7 +20283,7 @@
 		(at 273.05 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "748c2875-f0e1-4dff-9dee-46dfce22d111")
@@ -20477,7 +20477,7 @@
 		(at 189.23 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20725,7 +20725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "USBLC6-2P6"
+		(property "LCSC" "C2827693"
 			(at 58.42 163.83 0)
 			(effects
 				(font
@@ -20734,7 +20734,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2827693"
+		(property "MFR Part #" "USBLC6-2P6"
 			(at 58.42 163.83 0)
 			(effects
 				(font
@@ -20887,7 +20887,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "CL10A106MA8NRNC"
+		(property "LCSC" "C96446"
 			(at 53.34 71.12 0)
 			(effects
 				(font
@@ -20896,8 +20896,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
-			(at 53.34 71.12 0)
+		(property "MFR Part #" "CL10A106MA8NRNC"
+			(at 53.34 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21104,7 +21104,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF1001TCE"
+		(property "LCSC" "C11702"
 			(at 110.49 181.61 0)
 			(effects
 				(font
@@ -21113,7 +21113,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C11702"
+		(property "MFR Part #" "0402WGF1001TCE"
 			(at 110.49 181.61 0)
 			(effects
 				(font
@@ -21379,7 +21379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "FRC0402F2212TS"
+		(property "LCSC" "C2929993"
 			(at 86.36 46.99 0)
 			(effects
 				(font
@@ -21388,8 +21388,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2929993"
-			(at 86.36 46.99 0)
+		(property "MFR Part #" "FRC0402F2212TS"
+			(at 86.36 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21467,7 +21467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TS-1088-AR02016"
+		(property "LCSC" "C720477"
 			(at 140.97 129.54 0)
 			(effects
 				(font
@@ -21476,7 +21476,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C720477"
+		(property "MFR Part #" "TS-1088-AR02016"
 			(at 140.97 129.54 0)
 			(effects
 				(font
@@ -21553,7 +21553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 107.95 151.13 0)
 			(effects
 				(font
@@ -21562,8 +21562,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
-			(at 107.95 151.13 0)
+		(property "MFR Part #" "RC0402FR-0710KL"
+			(at 107.95 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21938,7 +21938,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF1001TCE"
+		(property "LCSC" "C11702"
 			(at 116.84 181.61 0)
 			(effects
 				(font
@@ -21947,7 +21947,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C11702"
+		(property "MFR Part #" "0402WGF1001TCE"
 			(at 116.84 181.61 0)
 			(effects
 				(font
@@ -22025,7 +22025,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "16-213SDRC/S530-A3/TR8"
+		(property "LCSC" "C71911"
 			(at 139.7 66.04 0)
 			(effects
 				(font
@@ -22034,8 +22034,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C71911"
-			(at 139.7 66.04 0)
+		(property "MFR Part #" "16-213SDRC/S530-A3/TR8"
+			(at 139.7 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22260,7 +22260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "1.27-8P TPPT"
+		(property "LCSC" "C6386921"
 			(at 172.72 143.51 0)
 			(effects
 				(font
@@ -22269,7 +22269,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "C6386921"
+		(property "MFR Part #" "1.27-8P TPPT"
 			(at 172.72 143.51 0)
 			(effects
 				(font
@@ -22822,7 +22822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 236.22 143.51 0)
 			(effects
 				(font
@@ -22831,7 +22831,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
+		(property "MFR Part #" "RC0402FR-0710KL"
 			(at 236.22 143.51 0)
 			(effects
 				(font
@@ -22910,7 +22910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 229.87 125.73 0)
 			(effects
 				(font
@@ -22919,7 +22919,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
+		(property "MFR Part #" "RC0402FR-0710KL"
 			(at 229.87 125.73 0)
 			(effects
 				(font
@@ -22997,7 +22997,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF1001TCE"
+		(property "LCSC" "C11702"
 			(at 139.7 59.69 0)
 			(effects
 				(font
@@ -23006,7 +23006,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C11702"
+		(property "MFR Part #" "0402WGF1001TCE"
 			(at 139.7 59.69 0)
 			(effects
 				(font
@@ -23084,7 +23084,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "16-213SDRC/S530-A3/TR8"
+		(property "LCSC" "C71911"
 			(at 110.49 187.96 0)
 			(effects
 				(font
@@ -23093,8 +23093,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C71911"
-			(at 110.49 187.96 0)
+		(property "MFR Part #" "16-213SDRC/S530-A3/TR8"
+			(at 110.49 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23123,7 +23123,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b8f5612e-0d13-44e0-b8e4-51abeb1599aa")
@@ -23757,7 +23757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TS-1088-AR02016"
+		(property "LCSC" "C720477"
 			(at 140.97 157.48 0)
 			(effects
 				(font
@@ -23766,7 +23766,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C720477"
+		(property "MFR Part #" "TS-1088-AR02016"
 			(at 140.97 157.48 0)
 			(effects
 				(font
@@ -23975,7 +23975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TS-1088-AR02016"
+		(property "LCSC" "C720477"
 			(at 144.78 186.69 0)
 			(effects
 				(font
@@ -23984,7 +23984,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C720477"
+		(property "MFR Part #" "TS-1088-AR02016"
 			(at 144.78 186.69 0)
 			(effects
 				(font
@@ -24497,7 +24497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "0402WGF4752TCE"
+		(property "LCSC" "C25896"
 			(at 86.36 54.61 0)
 			(effects
 				(font
@@ -24506,8 +24506,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25896"
-			(at 86.36 54.61 0)
+		(property "MFR Part #" "0402WGF4752TCE"
+			(at 86.36 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24585,7 +24585,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF1001TCE"
+		(property "LCSC" "C11702"
 			(at 144.78 59.69 0)
 			(effects
 				(font
@@ -24594,7 +24594,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C11702"
+		(property "MFR Part #" "0402WGF1001TCE"
 			(at 144.78 59.69 0)
 			(effects
 				(font
@@ -24671,7 +24671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "RC0402FR-070RL"
+		(property "LCSC" "C106231"
 			(at 124.46 157.48 0)
 			(effects
 				(font
@@ -24680,8 +24680,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106231"
-			(at 124.46 157.48 0)
+		(property "MFR Part #" "RC0402FR-070RL"
+			(at 124.46 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24756,7 +24756,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "0402WGF5101TCE"
+		(property "LCSC" "C25905"
 			(at 58.42 81.28 0)
 			(effects
 				(font
@@ -24765,8 +24765,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25905"
-			(at 58.42 81.28 0)
+		(property "MFR Part #" "0402WGF5101TCE"
+			(at 58.42 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24907,7 +24907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 107.95 135.89 0)
 			(effects
 				(font
@@ -24916,8 +24916,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
-			(at 107.95 135.89 0)
+		(property "MFR Part #" "RC0402FR-0710KL"
+			(at 107.95 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25059,7 +25059,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "CL10A106MA8NRNC"
+		(property "LCSC" "C96446"
 			(at 36.83 39.37 0)
 			(effects
 				(font
@@ -25068,8 +25068,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
-			(at 36.83 39.37 0)
+		(property "MFR Part #" "CL10A106MA8NRNC"
+			(at 36.83 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25212,7 +25212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part # " "RC0402FR-0710KL"
+		(property "LCSC" "C60490"
 			(at 92.71 35.56 0)
 			(effects
 				(font
@@ -25221,7 +25221,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60490"
+		(property "MFR Part #" "RC0402FR-0710KL"
 			(at 92.71 35.56 0)
 			(effects
 				(font
@@ -25485,15 +25485,6 @@
 			)
 		)
 		(property "Description" "10uF 25V X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 53.34 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part #" "CL10A106MA8NRNC"
 			(at 53.34 135.89 0)
 			(effects
 				(font

@@ -6594,7 +6594,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CL05B104KO5NNNC"
+		(property "Mfr. Part #" "CL05B104KO5NNNC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9685,7 +9685,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "C6386921"
+		(property "LCSC " "C6386921"
 			(at 0 0 0)
 			(effects
 				(font

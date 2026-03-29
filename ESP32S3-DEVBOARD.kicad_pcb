@@ -6176,7 +6176,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "a3f49fb6-5113-4b09-9e52-79a10a44e210")
+			(uuid "7d6973aa-8275-4c78-baa9-23f7e99f66f9")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.125)
@@ -6188,7 +6188,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "a3f49fb6-5113-4b09-9e52-79a10a44e210")
+			(uuid "e94d4eb2-6691-46ac-a051-73c3a0dae9da")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075)
@@ -6200,7 +6200,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "a3f49fb6-5113-4b09-9e52-79a10a44e210")
+			(uuid "bcf1d1fb-0353-4dc2-a3b9-1787d475ae14")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/LIBS/3D/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.stpZ"
@@ -8066,7 +8066,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "6ba7a3c7-8aa5-4645-a7c8-4fcf9c913331")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 1.06)
@@ -8079,7 +8079,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "eed65c80-b8a2-4978-b9fa-ce487595ee31")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 2.46)
@@ -8092,7 +8092,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "0f9abc4c-1943-4e26-92db-0a7bcd678098")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 3.86)
@@ -8105,7 +8105,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "3868f597-24a2-4f0d-871a-0ce04cf4e1ca")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 1.76)
@@ -8118,7 +8118,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "5ab7ae07-afbb-47e9-b744-240027b89ae0")
 		)
 		(pad "41" smd rect
 			(at -1.5 2.46 270)
@@ -8129,7 +8129,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "7fbc2821-6f93-4e9b-91e1-9eb0b2ef9bbc")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 3.16)
@@ -8142,7 +8142,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "3defa7b3-00a7-4655-a852-3855accfe7c3")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 1.06)
@@ -8155,7 +8155,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "fea2236f-5d0f-467c-946f-01e6a8f6046f")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 2.46)
@@ -8168,7 +8168,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "c71170f0-e4a1-4b9b-9eae-95bd59a44bda")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 3.86)
@@ -8181,7 +8181,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "5e7f5056-cb15-49fd-9d65-e9506a28de5e")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 1.76)
@@ -8194,7 +8194,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "a76e222c-8948-4acf-a260-6f9398e5f0d6")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 3.16)
@@ -8207,7 +8207,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "368632d0-7b45-44d0-ac30-1dc5f1a280ca")
+			(uuid "131bc56a-ccaa-471c-8bef-d4cfb6dbf4f8")
 		)
 		(zone
 			(net 0)
@@ -12597,7 +12597,7 @@
 			(net 1 "+3.3V")
 			(pinfunction "VO")
 			(pintype "power_out")
-			(uuid "a3bdc003-e4e0-4dba-91b8-345151a87260")
+			(uuid "578de7c7-23b5-43ff-9bdc-c7a0c0a869ec")
 		)
 		(pad "3" smd roundrect
 			(at -3.15 2.3 90)
@@ -13317,7 +13317,7 @@
 			(uuid "4d2e3143-0ec3-4019-87cf-9bf22efea386")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.019894 -0.249716 -90)
+			(at 0.019894 -0.249716 270)
 			(layer "B.Fab")
 			(uuid "f45b2473-2aeb-4caf-9683-0203d02c366d")
 			(effects
@@ -13941,7 +13941,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "6cf12d19-1a64-4e4b-afb5-2c2b4430d6c2")
+			(uuid "76fdbf78-065d-4417-a32d-7cfbdb85302d")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.125)
@@ -13953,7 +13953,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "6cf12d19-1a64-4e4b-afb5-2c2b4430d6c2")
+			(uuid "03d20715-c7c8-43e1-802e-90b7d10248ee")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075)
@@ -13965,7 +13965,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "6cf12d19-1a64-4e4b-afb5-2c2b4430d6c2")
+			(uuid "05eeea12-ddc4-43dc-ba8f-1fdfb643323f")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/LIBS/3D/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.stpZ"
@@ -24349,9 +24349,9 @@
 		)
 		(polygon
 			(pts
-				(xy 153.559748 148.852374) (xy 156.099748 148.852374) (xy 156.099748 148.852374) (xy 156.099748 144.026374)
-				(xy 156.988748 144.026374) (xy 156.988748 138.565374) (xy 153.432748 138.565374) (xy 153.432748 138.565374)
-				(xy 152.162748 138.565374) (xy 152.162748 144.026374) (xy 153.559748 144.026374)
+				(xy 153.559748 148.852374) (xy 156.099748 148.852374) (xy 156.099748 144.026374) (xy 156.988748 144.026374)
+				(xy 156.988748 138.565374) (xy 153.432748 138.565374) (xy 152.162748 138.565374) (xy 152.162748 144.026374)
+				(xy 153.559748 144.026374)
 			)
 		)
 		(filled_polygon
