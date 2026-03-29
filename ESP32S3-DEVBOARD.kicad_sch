@@ -15919,7 +15919,7 @@
 		)
 		(uuid "4bc88dc8-1a7c-4eff-bb57-03c3dd7612a7")
 	)
-	(label "LED_1"
+	(label "TX_LED"
 		(at 127 69.85 0)
 		(effects
 			(font
@@ -16619,7 +16619,7 @@
 		)
 		(uuid "c89b68ee-8226-4dde-8f98-8ab716982586")
 	)
-	(label "LED_2"
+	(label "RX_LED"
 		(at 127 72.39 0)
 		(effects
 			(font
