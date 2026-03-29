@@ -568,7 +568,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ESP32S3-DEVBOARD.step",
       "svg": "",
       "vrml": ""
     },
